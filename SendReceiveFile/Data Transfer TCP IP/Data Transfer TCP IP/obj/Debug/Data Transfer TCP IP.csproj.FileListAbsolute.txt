@@ -1,0 +1,20 @@
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe.config
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.pdb
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.AssemblyReference.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Form1.resources
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Properties.Resources.resources
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.GenerateResource.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.CoreCompileInputs.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.exe
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.pdb
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe.config
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.pdb
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.AssemblyReference.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Form1.resources
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Properties.Resources.resources
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.GenerateResource.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.exe
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.pdb

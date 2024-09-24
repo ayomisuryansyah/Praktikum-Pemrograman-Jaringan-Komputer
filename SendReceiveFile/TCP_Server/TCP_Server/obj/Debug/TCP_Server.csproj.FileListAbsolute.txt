@@ -1,0 +1,20 @@
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.cache
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.ServerForm.resources
+C:\Users\IhmalPutra\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.AssemblyReference.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.AssemblyReference.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.ServerForm.resources
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\GAMING\Documents\SEMESTER 5\Praktikum Pemrograman Jaringan Komputer\SendReceiveFile\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
